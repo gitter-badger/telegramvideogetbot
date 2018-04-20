@@ -28,3 +28,6 @@ BOT_TOKEN=<your-telegram-bot-token-here> npm start
 ## How to contribute to the project
 See [CONTRIBUTING.md](CONTRIBUTING.md) for info on how you can contribute
 to the project.
+
+# Licence
+__TL;DR__ The project is in the public domain. Do what you want. For full licence see attached [LICENCE](LICENCE) file.
