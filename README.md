@@ -4,6 +4,8 @@
 [![GitHub license](https://img.shields.io/github/license/nuxdie/telegramvideogetbot.svg)](https://github.com/nuxdie/telegramvideogetbot/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/nuxdie/telegramvideogetbot.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fnuxdie%2Ftelegramvideogetbot)
 
+<p align="center"><img width="261" alt="noun_1138482_cc" src="https://user-images.githubusercontent.com/3918844/39073793-4f72a4a8-44ef-11e8-8b7e-f9c14dd45542.png"></p>
+
 # Video_note download link bot for Telegram
 Bot that drops the link to the media from telegram
 
