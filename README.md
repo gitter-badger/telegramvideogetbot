@@ -21,7 +21,7 @@ docker run -e BOT_TOKEN=<your-telegram-bot-token-here> nuxdie/telegramvideogetbo
 First clone this project or fork and then run:
 ```bash
 npm install
-npm start
+BOT_TOKEN=<your-telegram-bot-token-here> npm start
 ```
 
 ## How to contribute to the project
