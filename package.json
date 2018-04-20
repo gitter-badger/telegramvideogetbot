@@ -1,0 +1,23 @@
+{
+  "name": "telegramvideogetbot",
+  "version": "1.0.0",
+  "description": "Bot that drops the link to the media from telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuxdie/telegramvideogetbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuxdie/telegramvideogetbot/issues"
+  },
+  "homepage": "https://github.com/nuxdie/telegramvideogetbot#readme",
+  "dependencies": {
+    "telegraf": "3.20.0"
+  }
+}
