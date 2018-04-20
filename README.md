@@ -1,4 +1,5 @@
 [![GitHub issues](https://img.shields.io/github/issues/nuxdie/telegramvideogetbot.svg)](https://github.com/nuxdie/telegramvideogetbot/issues)
+[![CircleCI](https://img.shields.io/circleci/project/github/nuxdie/telegramvideogetbot.svg)](https://github.com/nuxdie/telegramvideogetbot)
 [![GitHub forks](https://img.shields.io/github/forks/nuxdie/telegramvideogetbot.svg)](https://github.com/nuxdie/telegramvideogetbot/network)
 [![GitHub stars](https://img.shields.io/github/stars/nuxdie/telegramvideogetbot.svg)](https://github.com/nuxdie/telegramvideogetbot/stargazers)
 [![GitHub license](https://img.shields.io/github/license/nuxdie/telegramvideogetbot.svg)](https://github.com/nuxdie/telegramvideogetbot/blob/master/LICENSE)
