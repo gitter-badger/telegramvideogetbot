@@ -7,3 +7,7 @@ Bot that drops the link to the media from telegram
 ```bash
 docker run -e BOT_TOKEN=<your-telegram-bot-token-here> nuxdie/telegramvideogetbot:latest
 ```
+
+## How to contribute to the project
+See [CONTRIBUTING.md](CONTRIBUTING.md) for info on how you can contribute
+to the project.
