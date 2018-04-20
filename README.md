@@ -19,6 +19,8 @@
 </p>
 
 # Video_note download link bot for Telegram
+
+[![Join the chat at https://gitter.im/telegramvideogetbot/Lobby](https://badges.gitter.im/telegramvideogetbot/Lobby.svg)](https://gitter.im/telegramvideogetbot/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Bot that drops the link to the media from telegram
 
 ## How to run Docker version
