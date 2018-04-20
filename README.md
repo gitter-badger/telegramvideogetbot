@@ -1,8 +1,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/nuxdie/telegramvideogetbot.svg)](https://github.com/nuxdie/telegramvideogetbot/issues)
 [![CircleCI](https://img.shields.io/circleci/project/github/nuxdie/telegramvideogetbot.svg)](https://github.com/nuxdie/telegramvideogetbot)
+[![GitHub license](https://img.shields.io/github/license/nuxdie/telegramvideogetbot.svg)](https://github.com/nuxdie/telegramvideogetbot/blob/master/LICENSE)
 [![GitHub forks](https://img.shields.io/github/forks/nuxdie/telegramvideogetbot.svg)](https://github.com/nuxdie/telegramvideogetbot/network)
 [![GitHub stars](https://img.shields.io/github/stars/nuxdie/telegramvideogetbot.svg)](https://github.com/nuxdie/telegramvideogetbot/stargazers)
-[![GitHub license](https://img.shields.io/github/license/nuxdie/telegramvideogetbot.svg)](https://github.com/nuxdie/telegramvideogetbot/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/nuxdie/telegramvideogetbot.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fnuxdie%2Ftelegramvideogetbot)
 
 <p align="center"><img class="img-fluid" width=300px src="https://user-images.githubusercontent.com/3918844/39076476-ecaeed10-44fb-11e8-9cc4-98e0f9ca6405.png" />
