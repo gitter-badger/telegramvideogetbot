@@ -11,6 +11,7 @@ docker run -e BOT_TOKEN=<your-telegram-bot-token-here> nuxdie/telegramvideogetbo
 
 ## How to run Node.js version
 ```bash
+npm install
 npm start
 ```
 
