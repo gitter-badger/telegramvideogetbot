@@ -4,7 +4,7 @@
   "description": "Bot that drops the link to the media from telegram",
   "main": "index.js",
   "scripts": {
-    "start": "nodejs .",
+    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
