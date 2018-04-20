@@ -4,3 +4,4 @@ Here're some things left to be desired:
     own token in reply messages, this
     could be fixed using 3rd party storage
     or hidden using url shortener
+  - **Code Quality:** Write automated tests
