@@ -9,10 +9,10 @@
 [![GitHub stars](https://img.shields.io/github/stars/nuxdie/telegramvideogetbot.svg)](https://github.com/nuxdie/telegramvideogetbot/stargazers)
 [![Github All Releases](https://img.shields.io/github/downloads/nuxdie/telegramvideogetbot/total.svg)](https://github.com/nuxdie/telegramvideogetbot)
 [![Docker Pulls](https://img.shields.io/docker/pulls/nuxdie/telegramvideogetbot.svg)](https://github.com/nuxdie/telegramvideogetbot)
-[![npm](https://img.shields.io/npm/dt/telegramvideogetbot.svg)](https://github.com/nuxdie/telegramvideogetbot)
-[![npm](https://img.shields.io/npm/v/npm.svg)](https://github.com/nuxdie/telegramvideogetbot)
+[![npm](https://img.shields.io/npm/dt/telegramvideogetbot.svg)](https://www.npmjs.com/package/telegramvideogetbot)
+[![npm](https://img.shields.io/npm/v/telegramvideogetbot.svg)](https://www.npmjs.com/package/telegramvideogetbot)
 [![David](https://img.shields.io/david/nuxdie/telegramvideogetbot.svg)](https://github.com/nuxdie/telegramvideogetbot)
-[![node](https://img.shields.io/node/v/passport.svg)](https://github.com/nuxdie/telegramvideogetbot)
+[![node](https://img.shields.io/node/v/telegramvideogetbot.svg)](https://github.com/nuxdie/telegramvideogetbot)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/nuxdie/telegramvideogetbot.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fnuxdie%2Ftelegramvideogetbot)
 
 <p align="center"><img class="img-fluid" width=300px src="https://user-images.githubusercontent.com/3918844/39076476-ecaeed10-44fb-11e8-9cc4-98e0f9ca6405.png" />
